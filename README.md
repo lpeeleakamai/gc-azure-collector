@@ -29,7 +29,7 @@ This script collects information about your Azure environment to help Guardicore
 
 ### Step 2: Run the Collection Script
 Copy and paste this command into CloudShell:
-```bashcurl -sL https://[YOUR-SCRIPT-URL]/Collect-AzureData.ps1 | pwsh
+"```bashcurl -sL https://[YOUR-SCRIPT-URL]/Collect-AzureData.ps1 | pwsh"
 
 Press **Enter** to execute.
 
